@@ -1,2 +1,2 @@
 # Robot-Arm
-Robot arm with Arduino
+Robot arm with Arduino Nano
