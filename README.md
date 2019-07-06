@@ -7,6 +7,8 @@ Interesting thing was to implement calculation to convert linear movement comman
 
 Another (not yet implemented) idea was to add potentiometers to control movement in linear x, y and z directions, then Arduino will calculate needed servo angles.
 
+See [Robot Arm in Action](https://www.youtube.com/watch?v=INLznvg_xrI)
+
 ![Electronics](doc/images/IMG_1-robot-arm.png "Robot arm")
 
 
